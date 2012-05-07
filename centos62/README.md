@@ -1,0 +1,1 @@
+The ruby SPEC isn't functional
